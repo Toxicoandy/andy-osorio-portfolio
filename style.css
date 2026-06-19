@@ -95,3 +95,21 @@ h2{
 color:#B026FF;
 text-shadow:0 0 10px #B026FF;
 }
+
+.skill{
+margin:20px 0;
+}
+
+.bar{
+background:#222;
+height:12px;
+border-radius:10px;
+overflow:hidden;
+}
+
+.bar span{
+display:block;
+height:100%;
+background:#39FF14;
+box-shadow:0 0 10px #39FF14;
+}
